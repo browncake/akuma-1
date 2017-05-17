@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$tobi0_Idle","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"トビー","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"tobi","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":10,"maxLevel":99,"name":"ロッティ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"tobi","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"トビー","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"$samu hokou","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"サム","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$ansoni","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"アントン","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"$bany","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"バーニー","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"$cara","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"カーラ","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"$pa-si-","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"パーシー","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"$karagara2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"アン","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"$chara1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"メリー","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
